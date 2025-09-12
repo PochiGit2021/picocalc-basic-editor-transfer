@@ -1,4 +1,4 @@
-# PicoCalc Transfer
+# PicoCalc Editor Transfer
 
 **日本語** | [English](README_EN.md)
 
